@@ -1,0 +1,9 @@
+patient_id,medication,timestamp,event_type,device_id
+P001,Lisinopril,2026-02-01T09:00:00,taken,DEV001
+P002,Metformin,2026-02-01T08:30:00,taken,DEV002
+P001,Lisinopril,2026-02-02T09:02:00,missed,DEV001
+P003,Atorvastatin,2026-02-02T07:50:00,taken,DEV003
+P004,Amlodipine,2026-02-02T20:10:00,late,DEV004
+P002,Metformin,2026-02-03T08:35:00,taken,DEV002
+P005,Levothyroxine,2026-02-03T06:45:00,missed,DEV005
+P003,Atorvastatin,2026-02-03T07:52:00,taken,DEV003
